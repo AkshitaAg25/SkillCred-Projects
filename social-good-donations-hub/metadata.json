@@ -1,0 +1,6 @@
+
+{
+  "name": "Social Good Donations Hub",
+  "description": "A one-page website to facilitate donations for various social causes. It uses a simulated headless CMS and Stripe for payments, and leverages an LLM to generate personalized thank-you emails and impact summaries for donors.",
+  "requestFramePermissions": []
+}
